@@ -1,5 +1,6 @@
 import abc from ABC
 from abc import abstractmethod
+import csv
 
 #Creating Base class
 
@@ -33,4 +34,16 @@ class club(abc):
     
     #ClubINfo
     
-    def getclubinfo()
+    def clubinfo():
+      print("This club provides a platform to the artist of COEP to demonstrate their art skills and embrace them while pursuing engineering.\nIt consists of various sections like dance , drama , music and the list goes on...")
+    
+    def membersinfo():
+      info = open('cultural.csv')
+      memberinf = csv.reader(info)
+      
+    
+    def eventsinfo():
+      pass
+    
+    def fundsinfo():
+      pass
