@@ -1,1 +1,4 @@
+print("The various clubs of CoEP provide the students the much-cherished opportunity to come together to discuss and exchange ideas with like-minded people.\nHere, there’s something for everyone!")
+print("These are our Clubs: \n\nAarya Raas\nAbhijaat Newsletter\nArts and Crafts\nAstronomy Club\nBHAU’s Innovation & Entrepreneurship Cell\nBoat Club\nBoat Club Quiz Club\nCivil Services Aspirants Club\nCOEP ACM\nCOEP Consulting Club\nCOEP CSI Student Chapter\nCOEP Philomystics\nCoFSUG\nCultural Club\nDebate Club\nHAM Club\nHistory Club\nIgnited Innovators of India\nInformation and Cyber Security Research Group\nJaneev Club\nPersonality Development club\nRamanujan Mathematics Club\nRobot Study Circle\nSatellite Team\nScience Club\nSociety of Women Engineers\nSoftware Developement Section\nSpandan\nSpic Macay\nAbhiyanta")
 
+s = string(input("Enter the club "))
