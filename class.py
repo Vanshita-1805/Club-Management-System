@@ -259,6 +259,214 @@ class club(abc):
       
     def fundsinfo():
         pass
+      
+  
+  class CSI(club):
+
+    def clubinfo():
+        print("The Computer Society of India (CSI) Student Chapter of College of Engineering Pune (COEP) , established in October 2018 is an active student organization which organizes a number of technical activities including workshops, competitions, technical symposiums, guest lectures etc. for its student members. Under the guidance of Department of Computer Engineering and Information Technology COEP, the student chapter has over 300 members and is run by a Core Team and faculty from the department.CSI COEP Student Chapter gives students the opportunity to grow in the field of IT.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass
+    
+class CSI(club):
+
+    def clubinfo():
+        print("The Computer Society of India (CSI) Student Chapter of College of Engineering Pune (COEP) , established in October 2018 is an active student organization which organizes a number of technical activities including workshops, competitions, technical symposiums, guest lectures etc. for its student members. Under the guidance of Department of Computer Engineering and Information Technology COEP, the student chapter has over 300 members and is run by a Core Team and faculty from the department.CSI COEP Student Chapter gives students the opportunity to grow in the field of IT.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass
+    
+class philomystics(club):
+
+    def clubinfo():
+        print("Intelligent, ever-motivated, logically sound, witty and a true seeker, is what we engineers pride ourselves to be. But inside each of us, is a small innocent soul, stumbling and learning as it grows up. In this process of growing, each of us develops his/her own philosophy of life. To provide a platform, an outlet to the philosopher inside each of us, the 'Philomystics' club was started in the college. Throughout the year, the group organizes guest lectures as well as many talks by students, in addition to informal discussions and debates amongst the crowd of enthusiasts!")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass    
+    
+    
+class CoFSUG(club):
+
+    def clubinfo():
+        print("COEP's Free Software Users Group (COFSUG) is a group of volunteers to promote the use of Free Software (also known as Open Source Software) in COEP and in other institutions in Pune. The group runs a mailing list cofsug@googlegroups.com. The group carries out activities like: Installation fests (to teach people how to install GNU/Linux operating system), Workshops on Linux Administration, Drupal, Python, Various FOSS technologies, Creative Commons, Open Hardware and like.  The group promotes the development of software with release of code under GNU GPL-v3 license. ")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass    
+    
+
+class Debate_club(club):
+
+    def clubinfo():
+        print("The CoEP Debate Club is Pune's premiere competitive debating club. It is divided into two sections English and Marathi section. The members participate in various inter college tournaments, viz Parliamentary Debates ,  Conventional Debates and Model United Nations, in and out of Pune, winning numerous accolades. Being good public speakers , members also play an active role in anchoring college events. The members have regular debating and brainstorming sessions along with workshops for skill refinement.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass    
+            
+class HAM_club(club):
+
+    def clubinfo():
+        print("COEP Amateur Radio Club established in 1986 makes itself the oldest technical club of College of Engineering Pune. Starting with vacuum tube transmitters, today the club have gradually upgraded the lab and now it holds advanced transmitters and receivers and other latest equipment. COEP's Amateur Radio Club communicates with HAM radio users using the callsign VU2COE. COEP "HAM"s have communicated with almost each and every corner of the world and even with the International Space Station. Every year, HAM Club organizes the A.S.O.C. examination and also coaches students for the same. It also conducts introductory workshops, basic antenna designing workshops annually in COEP and also in other colleges on invitation. The club successfully provides the complete communication link during the various prestigious events of the College of Engineering Pune like Regatta, Mind-spark, Zest, and M.R.A. races held at the COEP Boat Club. COEP HAM Club provides platform for research in field of Antenna and wireless communication and publish research papers about it.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass    
+            
+                
+class History(club):
+
+    def clubinfo():
+        print("COEP History Club is a platform for students of COEP to conduct and enjoy activities related to current historical events and important social situations and their historical context. The club organizes many site visits and treks to places of historical significance. These tours are guided ones and different field experts or prominent historians are taken along.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass    
+            
+                
+class i2i(club):
+
+    def clubinfo():
+        print("Ignited Innovators of India (I2I) is a movement organized by the BHAU institute of Innovation, Entrepreneurship and Leadership [BIEL] at College of Engineering, Pune. I2I is a unique initiative that aspires to reach out to students across India and provide them with an opportunity to become social entrepreneurs and bring about small but significant changes in the world around. The I2I initiative has been instituted with the vision of promoting and instilling entrepreneurship, leadership and team building skills among students in various colleges. The program encourages them to take up innovative projects that hold potential to make a tangible difference to the community.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass    
+            
+                
+                
+class ICSRG(club):
+
+    def clubinfo():
+        print("COEP's - Information and Cyber Security Research Group (COEP - ICSRG) is formed by the volunteers to do novel research in Information and Cyber Security in COEP and other Institutes. The group members acquire knowledge in current state of art systems and develop systems using open source softwares or freewares. The group shares knowledge to society and create awareness through conducting seminar, workshop, symposium, conference and media.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass    
+            
+                
+class Janeev(club):
+
+    def clubinfo():
+        print("COEP Janeev Club (previously COEP Environment Club) had evolved from an environmental project initially undertaken by a group of Civil Engineering students. The club realized that all environmental and social issues are interconnected, and do not exist in isolation. Thus, it was decided to transform the club with a view to increase its scope by working on social issues as well. In the year 2011, the Environment Club was transformed into Janeev Club (Marathi: जाणीव, meaning: consciousness) as the socio-environmental club of COEP.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass
+      
+class Boat Club(club):
+
+    def clubinfo():
+        print("COEP Janeev Club (previously COEP Environment Club) had evolved from an environmental project initially undertaken by a group of Civil Engineering students. The club realized that all environmental and social issues are interconnected, and do not exist in isolation. Thus, it was decided to transform the club with a view to increase its scope by working on social issues as well. In the year 2011, the Environment Club was transformed into Janeev Club (Marathi: जाणीव, meaning: consciousness) as the socio-environmental club of COEP.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass
+      
+class Consulting Club(club):
+
+    def clubinfo():
+        print("COEP Janeev Club (previously COEP Environment Club) had evolved from an environmental project initially undertaken by a group of Civil Engineering students. The club realized that all environmental and social issues are interconnected, and do not exist in isolation. Thus, it was decided to transform the club with a view to increase its scope by working on social issues as well. In the year 2011, the Environment Club was transformed into Janeev Club (Marathi: जाणीव, meaning: consciousness) as the socio-environmental club of COEP.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass
+      
+ class CSAC(club):
+
+    def clubinfo():
+        print("COEP Janeev Club (previously COEP Environment Club) had evolved from an environmental project initially undertaken by a group of Civil Engineering students. The club realized that all environmental and social issues are interconnected, and do not exist in isolation. Thus, it was decided to transform the club with a view to increase its scope by working on social issues as well. In the year 2011, the Environment Club was transformed into Janeev Club (Marathi: जाणीव, meaning: consciousness) as the socio-environmental club of COEP.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass
+      
+ 
+ class BhauECell(club):
+
+    def clubinfo():
+        print("COEP Janeev Club (previously COEP Environment Club) had evolved from an environmental project initially undertaken by a group of Civil Engineering students. The club realized that all environmental and social issues are interconnected, and do not exist in isolation. Thus, it was decided to transform the club with a view to increase its scope by working on social issues as well. In the year 2011, the Environment Club was transformed into Janeev Club (Marathi: जाणीव, meaning: consciousness) as the socio-environmental club of COEP.")
+
+    def membersinfo():
+        pass
+
+    def eventsinfo():
+        pass
+
+    def fundsinfo():
+        pass
+      
+  
+  
 
 
   
