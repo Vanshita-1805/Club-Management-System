@@ -40,6 +40,8 @@ class club(abc):
     def membersinfo():
       info = open('cultural.csv')
       memberinf = csv.reader(info)
+      for row in memberinf:
+        print
       
     
     def eventsinfo():
