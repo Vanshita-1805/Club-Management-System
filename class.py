@@ -117,7 +117,7 @@ class club(abc):
         memberinf = csv.reader(info)
       
     def eventsinfo():
-        pass
+        print("  ")
       
     def fundsinfo():
         pass
